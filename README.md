@@ -31,3 +31,13 @@ This project is an AI-powered Lead Management System that helps businesses captu
 ## API Documentation
 Swagger UI is available at:
 http://127.0.0.1:8000/docs
+
+git clone https://github.com/Rushi093/ai-lead-management-system.git
+
+cd ai-lead-management-system
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
