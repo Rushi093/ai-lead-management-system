@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+pydantic
+email-validator
+streamlit
+requests
